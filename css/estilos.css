@@ -1,0 +1,68 @@
+body{
+    background-image: url(../img/fondo.jpg);
+}
+#container{
+    width: 65%;
+}
+#formulario{
+    width: 40%;
+    float: right;
+    background-color: black;
+    padding: 20px 20px;
+    color: white;
+    padding: 45px 45px;
+    opacity: 90%;
+}
+.inicio{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#formulario input[value="Iniciar sesion"]{
+    background-color: #e50913;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    width: 100%;
+    margin-top: 18px;
+    padding: 10px 10px;
+}
+.cajas{
+    width: 95%;
+    padding: 10px 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border: solid 1px rgb(26, 25, 25);
+    background-color: rgb(26, 25, 25);
+    color: white;
+}
+.cb{
+    clear: both;
+}
+.link{
+    list-style-type: none;
+    color: white;
+    padding-left: 127px;
+    text-decoration: none;
+}
+.gris{
+    color: gray;
+}
+.foto{
+    width: 20px;
+    padding-right: 8px;
+}
+.link2{
+    list-style-type: none;
+    color:blue;
+    text-decoration: none;
+}
+.netflix{
+    width: 160px;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.inicio2{
+    color: white;
+}
